@@ -1,0 +1,114 @@
+{
+  "Index": {
+    "features": "Features",
+    "contact_us": "Contact Us",
+    "team": "Team",
+    "about_us": "About us",
+    "shadcnReact": "Shadcn/React",
+    "github": "Github"
+  },
+  "Hero": {
+  "secureStaking": "Secure Staking",
+  "for": "for",
+  "everyone": "everyone",
+  "description": "Stake for stability and growth with SecureSOL Staking from SolanaStakeHub",
+  "getStarted": "Get Started",
+  "githubRepository": "Github Repository"
+},
+"HeroCards": {
+  "title": "Cryptocurrency Staking Services - Our Offers",
+  "description": "Explore our cryptocurrency staking services and meet our dedicated team.",
+  "testimonial": {
+    "avatarAlt": "User avatar",
+    "content": "This landing page is awesome!"
+  },
+  "teamMember": {
+    "imageAlt": "John Doe - Frontend Developer",
+    "role": "Frontend Developer",
+    "description": "I really enjoy transforming ideas into functional software that exceeds expectations.",
+    "githubAlt": "Github icon",
+    "twitterAlt": "Twitter icon",
+    "linkedinAlt": "Linkedin icon"
+  },
+  "staking": {
+    "title": "Cryptocurrency Staking",
+    "popular": "Popular",
+    "earnRewards": "Earn Rewards",
+    "description": "Stake your cryptocurrency with us and earn regular rewards.",
+    "startStaking": "Start Staking",
+    "benefit1": "High APY",
+    "benefit2": "Secure Platform",
+    "benefit3": "24/7 Support"
+  },
+  "service": {
+    "title": "Light & dark mode",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur natus."
+  }
+},
+  "About": {
+    "title": "About Company - Your Company Name",
+    "description": "Learn more about our company, our values, and our mission.",
+    "pilotAlt": "Pilot",
+    "about": "About",
+    "company": "Company",
+    "descriptionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  "Statistics": {
+    "users": "Users",
+    "subscribers": "Subscribers",
+    "downloads": "Downloads",
+    "products": "Products"
+  },
+  "Services": {
+    "head": {
+      "title": "Our Services - Cryptocurrency Staking",
+      "description": "Explore the various services we offer for cryptocurrency staking, secure wallet management, and real-time analytics."
+    },
+    "titlePrefix": "Client-Centric",
+    "titleSuffix": " Services",
+    "description": "Discover our range of services designed to help you make the most of your cryptocurrency assets.",
+    "cryptocurrencyStaking": {
+      "title": "Cryptocurrency Staking",
+      "description": "Earn rewards by participating in the network validation process through staking your cryptocurrencies with us."
+    },
+    "secureWalletManagement": {
+      "title": "Secure Wallet Management",
+      "description": "Manage your digital assets securely with our advanced wallet services, ensuring safety and convenience."
+    },
+    "realTimeAnalytics": {
+      "title": "Real-Time Analytics",
+      "description": "Get real-time insights and analytics on your staked assets and the overall market trends."
+    },
+    "imageAlt": "About services"
+  },
+  "Team": {
+    "head": {
+      "title": "Our Team - Cryptocurrency Staking Company",
+      "description": "Meet our dedicated team of professionals who are committed to providing the best cryptocurrency staking services."
+    },
+    "titlePrefix": "Our Dedicated",
+    "titleSuffix": " Crew",
+    "description": "Meet our team of experts who are dedicated to providing you with the best cryptocurrency staking services.",
+    "teamMemberDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  },
+  "Footer":{
+    "Follow Us": "Follow Us",
+    "Platforms": "Platforms",
+    "About": "About",
+    "Community": "Community",
+    "Features": "Features",
+    "Pricing": "Pricing",
+    "FAQ": "FAQ",
+    "Web": "Web",
+    "Mobile": "Mobile",
+    "Desktop": "Desktop",
+    "Github": "Github",
+    "Twitter": "Twitter",
+    "Dribbble": "Dribbble",
+    "Youtube": "Youtube",
+    "Discord": "Discord",
+    "Twitch": "Twitch",
+    "Footer Credit": "&copy; 2024 Landing page made by"
+  }
+  
+}

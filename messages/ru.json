@@ -1,0 +1,117 @@
+{
+    "Index": {
+      "features": "Особенности",
+      "contact_us": "Связаться с нами",
+      "team": "Команда",
+      "about_us": "О нас",
+      "shadcnReact": "Shadcn/React",
+      "github": "Github"
+    },
+    "Hero": {
+    "secureStaking": "Безопасный стейкинг",
+    "for": "для",
+    "everyone": "всех",
+    "description": "Ставьте на стабильность и рост с SecureSOL Staking от SolanaStakeHub",
+    "getStarted": "Начать",
+    "githubRepository": "Репозиторий на Github"
+  },
+  "HeroCards": {
+    "title": "Услуги по стекингу криптовалют - Наши предложения",
+    "description": "Ознакомьтесь с нашими услугами по стекингу криптовалют и познакомьтесь с нашей преданной командой.",
+    "testimonial": {
+      "avatarAlt": "Аватар пользователя",
+      "content": "Эта посадочная страница потрясающая!"
+    },
+    "teamMember": {
+      "imageAlt": "Джон Доу - Фронтенд-разработчик",
+      "role": "Фронтенд-разработчик",
+      "description": "Мне очень нравится превращать идеи в функциональное программное обеспечение, которое превосходит ожидания.",
+      "githubAlt": "Иконка Github",
+      "twitterAlt": "Иконка Twitter",
+      "linkedinAlt": "Иконка Linkedin"
+    },
+    "staking": {
+      "title": "Стекинг криптовалют",
+      "popular": "Популярный",
+      "earnRewards": "Зарабатывайте награды",
+      "description": "Ставьте свою криптовалюту у нас и получайте регулярные награды.",
+      "startStaking": "Начать стекинг",
+      "benefit1": "Высокая доходность",
+      "benefit2": "Безопасная платформа",
+      "benefit3": "Круглосуточная поддержка"
+    },
+    "service": {
+      "title": "Светлый и темный режим",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur natus."
+    }
+  },
+  "About": {
+    "title": "О компании - Название вашей компании",
+    "description": "Узнайте больше о нашей компании, наших ценностях и нашей миссии.",
+    "pilotAlt": "Пилот",
+    "about": "О",
+    "company": "компании",
+    "descriptionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  "Statistics": {
+    "users": "Пользователи",
+    "subscribers": "Подписчики",
+    "downloads": "Загрузки",
+    "products": "Продукты"
+  },
+  "Services": {
+    "head": {
+      "title": "Наши Услуги - Криптовалютный Стейкинг",
+      "description": "Изучите различные услуги, которые мы предлагаем для криптовалютного стейкинга, безопасного управления кошельками и анализа в реальном времени."
+    },
+    "titlePrefix": "Клиенто-Ориентированные",
+    "titleSuffix": " Услуги",
+    "description": "Ознакомьтесь с нашим ассортиментом услуг, предназначенных для того, чтобы помочь вам максимально эффективно использовать ваши криптовалютные активы.",
+    "cryptocurrencyStaking": {
+      "title": "Криптовалютный Стейкинг",
+      "description": "Зарабатывайте награды, участвуя в процессе валидации сети через стейкинг ваших криптовалют с нами."
+    },
+    "secureWalletManagement": {
+      "title": "Безопасное Управление Кошельком",
+      "description": "Управляйте своими цифровыми активами безопасно с помощью наших продвинутых услуг по управлению кошельками, обеспечивая безопасность и удобство."
+    },
+    "realTimeAnalytics": {
+      "title": "Анализ в Реальном Времени",
+      "description": "Получите информацию и аналитику в реальном времени по вашим стейкинговым активам и общим рыночным тенденциям."
+    },
+    "imageAlt": "Об услугах"
+  },
+  "Team": {
+    "head": {
+      "title": "Наша Команда - Криптовалютная Компания",
+      "description": "Познакомьтесь с нашей преданной командой профессионалов, которые стремятся предоставлять лучшие услуги по стейкингу криптовалют."
+    },
+    "titlePrefix": "Наша Преданная",
+    "titleSuffix": " Команда",
+    "description": "Познакомьтесь с нашей командой экспертов, которые стремятся предоставлять вам лучшие услуги по стейкингу криптовалют.",
+    "teamMemberDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  },
+  "Footer":{
+    "Follow Us": "Подписаться",
+    "Platforms": "Платформы",
+    "About": "О нас",
+    "Community": "Сообщество",
+    "Features": "Возможности",
+    "Pricing": "Цены",
+    "FAQ": "Часто задаваемые вопросы",
+    "Web": "Веб",
+    "Mobile": "Мобильное приложение",
+    "Desktop": "Десктоп",
+    "Github": "Github",
+    "Twitter": "Твиттер",
+    "Dribbble": "Дриббл",
+    "Youtube": "Ютуб",
+    "Discord": "Дискорд",
+    "Twitch": "Твич",
+    "Footer Credit": "&copy; 2024 Страница создана"
+  }
+  
+  
+  
+  }
+  
