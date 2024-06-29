@@ -2,38 +2,25 @@
 
 import React from "react";
 
-import Link from "next/link";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { useFieldArray, useForm, Controller } from "react-hook-form";
+import { useForm } from "react-hook-form";
 import * as z from "zod";
 import { useState } from "react";
 
-import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import {
   Form,
   FormControl,
-  FormDescription,
   FormField,
   FormItem,
   FormLabel,
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
 import { Textarea } from "@/components/ui/textarea";
 import { toast } from "@/components/ui/use-toast";
 
-const MAX_FILE_SIZE = 5000000;
-const ACCEPTED_IMAGE_TYPES = ["image/jpeg", "image/jpg", "image/png"];
 
-// form data validation using zod
 const profileFormSchema = z.object({
   email: z
     .string({
@@ -51,34 +38,25 @@ const profileFormSchema = z.object({
     .optional(),
 });
 
-// types for form values
 type ProfileFormValues = z.infer<typeof profileFormSchema>;
 
-// This can come from your database or API. Default values for the form fields.
 const defaultValues: Partial<ProfileFormValues> = {
   email: "",
   message: ""
 };
 
-// handle file upload
 
-
-// ---------------------------------------------------------
 
 const ContactForm = () => {
-  // Function for when to check if the form is valid
   const form = useForm<ProfileFormValues>({
     resolver: zodResolver(profileFormSchema),
     defaultValues,
     mode: "onChange",
   });
 
-  // testing use state
   const [loading, setLoading] = useState(false);
 
-  // function to submit the form
   const submitForm = async (data: ProfileFormValues) => {
-    console.log('chetam')
     toast({
       title: "Hold on!",
     });
@@ -105,10 +83,8 @@ const ContactForm = () => {
         description: "We'll get back to you soon.",
       });
 
-      // set loading to false
       setLoading(false);
 
-      // reset the form
     } catch (error) {
       toast({
         variant: "destructive",

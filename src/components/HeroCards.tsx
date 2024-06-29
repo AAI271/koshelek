@@ -26,7 +26,7 @@ export const HeroCards: React.FC = () => {
             <Avatar>
               <AvatarImage
                 alt={t('testimonial.avatarAlt')}
-                src="https://sneg.top/uploads/posts/2023-06/1687686542_sneg-top-p-khoroshie-avatarki-dlya-yutuba-instagram-29.jpg"
+                src=""
                 loading="lazy"
               />
               <AvatarFallback>SH</AvatarFallback>
@@ -43,13 +43,12 @@ export const HeroCards: React.FC = () => {
         <Card className="absolute right-[20px] top-4 w-80 flex flex-col justify-center items-center drop-shadow-xl shadow-black/10 dark:shadow-white/10">
           <CardHeader className="mt-8 flex justify-center items-center pb-2">
             <Image
-              src="https://i.pravatar.cc/150?img=58"
+              src=""
               alt={t('teamMember.imageAlt')}
               className="absolute grayscale-[0%] -top-12 rounded-full w-24 h-24 aspect-square object-cover"
               width={96}
               height={96}
               placeholder="blur"
-              blurDataURL="https://i.pravatar.cc/150?img=58"
               loading="lazy"
             />
             <CardTitle className="text-center">John Doe</CardTitle>

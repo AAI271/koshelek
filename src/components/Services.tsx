@@ -35,10 +35,6 @@ export const Services: React.FC = () => {
 
   return (
     <>
-      <Head>
-        <title>{t('head.title')}</title>
-        <meta name="description" content={t('head.description')} />
-      </Head>
       <section className="container py-24 sm:py-32">
         <div className="grid lg:grid-cols-[1fr,1fr] gap-8 place-items-center">
           <div>

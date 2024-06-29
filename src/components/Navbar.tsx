@@ -19,6 +19,7 @@ import { Menu } from "lucide-react";
 import { ModeToggle } from "./mode-toggle";
 import { LogoIcon } from "./Icons";
 import { useTranslations } from "next-intl";
+import { ToggleLanguage } from "./toggle-language";
 
 interface RouteProps {
   href: string;
@@ -138,7 +139,7 @@ export const Navbar = () => {
               <GitHubLogoIcon className="mr-2 w-5 h-5" />
               {t("github")}
             </a>
-
+            <ToggleLanguage/>
             <ModeToggle />
           </div>
         </NavigationMenuList>
